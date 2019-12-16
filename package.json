@@ -60,7 +60,7 @@
     "@clr/angular": "^2.0.2",
     "@clr/icons": "^2.0.2",
     "@clr/ui": "^2.0.2",
-    "@ctrl/ngx-codemirror": "^2.0.0",
+    "@ctrl/ngx-codemirror": "^2.2.1",
     "@ngrx/effects": "^8.1.0",
     "@ngrx/store": "^8.1.0",
     "@ngrx/store-devtools": "^8.1.0",
